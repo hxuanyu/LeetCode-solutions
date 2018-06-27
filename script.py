@@ -38,9 +38,9 @@ class Question:
         self.lock = lock  # boolean，锁住了表示需要购买
         self.difficulty = difficulty
         # the solution url
-        self.python = ''
+        #self.python = ''
         self.java = ''
-        self.javascript = ''
+        #self.javascript = ''
         self.c_plus_plus = ''
 
     def __repr__(self):
@@ -177,10 +177,8 @@ class CompleteInform:
 
     def __init__(self):
         self.solved = {
-            'python': 0,
             'c++': 0,
             'java': 0,
-            'javascript': 0
         }
         self.complete_num = 0
         self.lock = 0
@@ -212,10 +210,8 @@ class Readme:
                    'Until {}, I have solved **{}** / **{}** problems ' \
                    'while **{}** are still locked.' \
                    '\n\nCompletion statistic: ' \
-                   '\n1. JavaScript: {javascript} ' \
-                   '\n2. Python: {python}' \
-                   '\n3. C++: {c++}' \
-                   '\n4. Java: {java}' \
+                   '\n1. C++: {c++}' \
+                   '\n2. Java: {java}' \
                    '\n\nNote: :lock: means you need to buy a book from LeetCode\n'.format(
                     self.time, self.solved, self.total, self.locked, **self.others)
 
@@ -249,12 +245,12 @@ class Readme:
                     'id': item.id_,
                     'title': '[{}]({}) {}'.format(item.title, item.url, _lock),
                     'difficulty': item.difficulty,
-                    'js': item.javascript if item.javascript else 'To Do',
-                    'python': item.python if item.python else 'To Do',
+                    #'js': item.javascript if item.javascript else 'To Do',
+                    #'python': item.python if item.python else 'To Do',
                     'c++': item.c_plus_plus if item.c_plus_plus else 'To Do',
                     'java': item.java if item.java else 'To Do'
                 }
-                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{c++}|{java}|\n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 

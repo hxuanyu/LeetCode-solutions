@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-06-27 10:19:57, I have solved **0** / **774** problems while **133** are still locked.
+Until 2018-06-27 10:23:33, I have solved **0** / **774** problems while **133** are still locked.
 
 Completion statistic: 
 1. C++: 0
@@ -9,7 +9,7 @@ Note: :lock: means you need to buy a book from LeetCode
 
 ----------------
 ## LeetCode Solution Table
-| ID | Title | Difficulty | JavaScript | Python | C++ | Java |
+| ID | Title | Difficulty | C++ | Java |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|To Do|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|

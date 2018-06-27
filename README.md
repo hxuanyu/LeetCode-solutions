@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-06-27 12:18:35, I have solved **7** / **774** problems while **133** are still locked.
+Until 2018-06-27 13:41:29, I have solved **15** / **774** problems while **133** are still locked.
 
 Completion statistic: 
-1. C++: 7
+1. C++: 15
 2. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -30,14 +30,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|
-|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/Solution.cpp)|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|
 |024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) |Medium|To Do|To Do|
 |025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) |Hard|To Do|To Do|
-|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|To Do|To Do|
-|027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|To Do|To Do|
+|026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/026.%20Remove%20Duplicates%20from%20Sorted%20Array/Solution.cpp)|To Do|
+|027|[Remove Element](https://leetcode.com/problems/remove-element/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/027.%20Remove%20Element/Solution.cpp)|To Do|
 |028|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) |Easy|To Do|To Do|
 |029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) |Medium|To Do|To Do|
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|
@@ -114,13 +114,13 @@ Note: :lock: means you need to buy a book from LeetCode
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|To Do|To Do|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.cpp)|To Do|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) |Medium|To Do|To Do|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|To Do|To Do|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|To Do|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/110.%20Balanced%20Binary%20Tree/Solution.cpp)|To Do|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.cpp)|To Do|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|
@@ -135,7 +135,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/125.%20Valid%20Palindrome/Solution.cpp)|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) |Hard|To Do|To Do|
@@ -276,7 +276,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) :lock:|Medium|To Do|To Do|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/) :lock:|Medium|To Do|To Do|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) |Hard|To Do|To Do|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|To Do|To Do|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/283.%20Move%20Zeroes/Solution.cpp)|To Do|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|To Do|To Do|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|To Do|To Do|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|To Do|To Do|
@@ -616,7 +616,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) |Medium|To Do|To Do|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) |Medium|To Do|To Do|
 |679|[24 Game](https://leetcode.com/problems/24-game/description/) |Hard|To Do|To Do|
-|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) |Easy|To Do|To Do|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/680.%20Valid%20Palindrome%20II/Solution.cpp)|To Do|
 |681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) :lock:|Medium|To Do|To Do|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) |Easy|To Do|To Do|
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) :lock:|Hard|To Do|To Do|

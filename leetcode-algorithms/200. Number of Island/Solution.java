@@ -19,15 +19,6 @@
 //
 // Output: 3
 class Solution {
-    public Solution() {
-
-        dirs = new ArrayList<>();
-        dirs.add(new ArrayList(Arrays.asList(-1, 0)));
-        dirs.add(new ArrayList(Arrays.asList(0, 1)));
-        dirs.add(new ArrayList(Arrays.asList(1, 0)));
-        dirs.add(new ArrayList(Arrays.asList(0, -1)));
-    }
-
     public int numIslands(char[][] grid) {
         if ((grid.length == 0) || (grid[0].length == 0)) return 0;
         int count = 0;
@@ -50,12 +41,11 @@ class Solution {
 
         visited[x][y] = true;
 
-        for (List<Integer> dir : dirs) {
-            int newx = x + dir.get(0);
-            int newy = y + dir.get(1);
+        int dirs [][] ={{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+        for (int[] dir : dirs) {
+            int newx = x + dir[0];
+            int newy = y + dir[1];
             visit(grid, newx, newy, visited);
         }
     }
-
-    List<List> dirs;
 }

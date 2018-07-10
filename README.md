@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-07-09 13:31:34, I have solved **59** / **783** problems while **133** are still locked.
+Until 2018-07-10 12:02:20, I have solved **60** / **783** problems while **133** are still locked.
 
 Completion statistic: 
 1. C++: 45
-2. Java: 22
+2. Java: 23
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -44,7 +44,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|
 |033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|
-|034|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) |Medium|To Do|To Do|
+|034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position/Solution.java)|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|To Do|To Do|
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) |Hard|To Do|To Do|
@@ -251,7 +251,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |254|[Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) :lock:|Medium|To Do|To Do|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) :lock:|Medium|To Do|To Do|
 |256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Easy|To Do|To Do|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|To Do|To Do|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/257.%20Binary%20Tree%20Paths/Solution.java)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|To Do|To Do|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|To Do|To Do|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|To Do|To Do|

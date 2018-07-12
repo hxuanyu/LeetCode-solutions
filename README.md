@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2018-07-12 11:58:12, I have solved **62** / **783** problems while **133** are still locked.
+Until 2018-07-12 12:52:11, I have solved **63** / **783** problems while **133** are still locked.
 
 Completion statistic: 
-1. C++: 45
-2. Java: 25
+1. C++: 46
+2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -112,7 +112,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/) |Easy|To Do|To Do|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |Easy|To Do|To Do|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|To Do|To Do|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/102.%20Binary%20Tree%20Level%20Order%20Traversal/Solution.java)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |Medium|To Do|To Do|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.java)|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) |Medium|To Do|To Do|

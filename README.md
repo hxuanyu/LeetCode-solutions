@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-07-20 16:30:17, I have solved **80** / **815** problems while **139** are still locked.
+Until 2018-07-20 17:11:23, I have solved **82** / **815** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 63
+1. C++: 65
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -226,7 +226,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|To Do|To Do|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|To Do|To Do|
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|To Do|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks/Solution.cpp)|To Do|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|To Do|To Do|
@@ -653,7 +653,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) |Medium|To Do|To Do|
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments/description/) |Medium|To Do|To Do|
 |723|[Candy Crush](https://leetcode.com/problems/candy-crush/description/) :lock:|Medium|To Do|To Do|
-|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |Easy|To Do|To Do|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/724.%20Find%20Pivot%20Index/Solution.cpp)|To Do|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) |Medium|To Do|To Do|
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms/description/) |Hard|To Do|To Do|
 |727|[Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/description/) :lock:|Hard|To Do|To Do|

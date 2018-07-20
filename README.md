@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-07-13 12:33:45, I have solved **74** / **810** problems while **139** are still locked.
+Until 2018-07-20 16:30:17, I have solved **80** / **815** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 57
+1. C++: 63
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -56,8 +56,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|
-|046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|To Do|To Do|
-|047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|To Do|To Do|
+|046|[Permutations](https://leetcode.com/problems/permutations/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/046.%20Permutations/Solution.cpp)|To Do|
+|047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/047.%20Permutations%20II/Solution.cpp)|To Do|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|
 |050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|
@@ -236,7 +236,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|To Do|To Do|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|To Do|To Do|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |Medium|To Do|To Do|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|To Do|To Do|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/Solution.cpp)|To Do|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) :lock:|Easy|To Do|To Do|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) :lock:|Medium|To Do|To Do|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) :lock:|Medium|To Do|To Do|
@@ -425,7 +425,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |Medium|To Do|To Do|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) |Medium|To Do|To Do|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|To Do|To Do|
-|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|To Do|To Do|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String/Solution.cpp)|To Do|
 |439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|To Do|To Do|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|To Do|To Do|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|To Do|To Do|
@@ -540,7 +540,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) |Hard|To Do|To Do|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/description/) |Medium|To Do|To Do|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/Solution.java)|
-|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |Medium|To Do|To Do|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/567.%20Permutation%20in%20String/Solution.cpp)|To Do|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|To Do|To Do|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/572.%20Subtree%20of%20Another%20Tree/Solution.cpp)|To Do|
 |573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/description/) :lock:|Medium|To Do|To Do|
@@ -622,7 +622,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |679|[24 Game](https://leetcode.com/problems/24-game/description/) |Hard|To Do|To Do|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/680.%20Valid%20Palindrome%20II/Solution.cpp)|To Do|
 |681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) :lock:|Medium|To Do|To Do|
-|682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) |Easy|To Do|To Do|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/682.%20Baseball%20Game/Solution.cpp)|To Do|
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) :lock:|Hard|To Do|To Do|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) |Medium|To Do|To Do|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) |Hard|To Do|To Do|
@@ -781,8 +781,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) |Medium|To Do|To Do|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/830.%20Positions%20of%20Large%20Groups/Solution.java)|
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|
-|641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) |Easy|To Do|To Do|
-|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Easy|To Do|To Do|
+|641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) |Medium|To Do|To Do|
+|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Medium|To Do|To Do|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Imag/Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/832.%20Flipping%20an%20Imag/Solution.java)|
 |833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|
@@ -821,3 +821,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) |Medium|To Do|To Do|
 |866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) |Medium|To Do|To Do|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) |Easy|To Do|To Do|
+|868|[Binary Gap](https://leetcode.com/problems/binary-gap/description/) |Easy|To Do|To Do|
+|869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) |Medium|To Do|To Do|
+|870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) |Medium|To Do|To Do|
+|871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) |Hard|To Do|To Do|
+|470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) |Medium|To Do|To Do|

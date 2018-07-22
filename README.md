@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-07-22 21:38:47, I have solved **88** / **819** problems while **139** are still locked.
+Until 2018-07-22 22:55:03, I have solved **93** / **819** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 71
+1. C++: 76
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -172,7 +172,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/) :lock:|Hard|To Do|To Do|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/160.%20Intersection%20of%20Two%20Linked%20Lists\Solution.cpp)|To Do|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) :lock:|Medium|To Do|To Do|
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|To Do|To Do|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Elemen\Solution.cpp)|To Do|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Medium|To Do|To Do|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) |Hard|To Do|To Do|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) |Medium|To Do|To Do|
@@ -210,7 +210,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|To Do|To Do|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Arra\Solution.cpp)|To Do|
-|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|To Do|To Do|
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/216.%20Combination%20Sum%20II\Solution.cpp)|To Do|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate\Solution.cpp)|To Do|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|To Do|To Do|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II\Solution.cpp)|To Do|
@@ -370,7 +370,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |Easy|To Do|To Do|
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/description/) |Medium|To Do|To Do|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/description/) |Medium|To Do|To Do|
-|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|To Do|To Do|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/377.%20Combination%20Sum%20I\Solution.cpp)|To Do|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|To Do|To Do|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|To Do|To Do|
@@ -435,7 +435,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) |Medium|To Do|To Do|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) |Hard|To Do|To Do|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) |Easy|To Do|To Do|
-|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|To Do|To Do|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Arra\Solution.cpp)|To Do|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) |Medium|To Do|To Do|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |Medium|To Do|To Do|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/451.%20Sort%20Characters%20By%20Frequenc\Solution.cpp)|To Do|
@@ -804,7 +804,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|
 |850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/description/) |Hard|To Do|To Do|
 |851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/) |Medium|To Do|To Do|
-|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|To Do|To Do|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/852.%20Peak%20Index%20in%20a%20Mountain%20Arra\Solution.cpp)|To Do|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/description/) |Medium|To Do|To Do|
 |854|[K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) |Hard|To Do|To Do|
 |855|[Exam Room](https://leetcode.com/problems/exam-room/description/) |Medium|To Do|To Do|

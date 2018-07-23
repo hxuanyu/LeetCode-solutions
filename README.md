@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-07-23 11:08:36, I have solved **96** / **819** problems while **139** are still locked.
+Until 2018-07-23 12:38:13, I have solved **101** / **819** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 79
+1. C++: 84
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -122,8 +122,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/110.%20Balanced%20Binary%20Tree/Solution.cpp)|To Do|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.cpp)|To Do|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|
-|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/112.%20Path%20Sum/Solution.cpp)|To Do|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/113.%20Path%20Sum%20II/Solution.cpp)|To Do|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|To Do|To Do|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|To Do|To Do|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) |Medium|To Do|To Do|
@@ -501,9 +501,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|To Do|To Do|
 |521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|To Do|To Do|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|
-|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|To Do|To Do|
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/523.%20Continuous%20Subarray%20Sum/Solution.cpp)|To Do|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|To Do|
-|525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) |Medium|To Do|To Do|
+|525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/525.%20Contiguous%20Array/Solution.cpp)|To Do|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) |Medium|To Do|To Do|
 |527|[Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) :lock:|Hard|To Do|To Do|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/description/) |Medium|To Do|To Do|
@@ -533,7 +533,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |555|[Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/description/) :lock:|Medium|To Do|To Do|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/) |Medium|To Do|To Do|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|To Do|
-|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|To Do|To Do|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/560.%20Subarray%20Sum%20Equals%20K/Solution.cpp)|To Do|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/561.%20Array%20Partition%20I/Solution.cpp)|To Do|
 |562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/) :lock:|Medium|To Do|To Do|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) |Easy|To Do|To Do|

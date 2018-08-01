@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-07-28 23:38:48, I have solved **120** / **823** problems while **139** are still locked.
+Until 2018-08-01 23:08:12, I have solved **130** / **827** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 103
+1. C++: 113
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -60,7 +60,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/047.%20Permutations%20II\Solution.cpp)|To Do|
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) |Medium|To Do|To Do|
 |049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |Medium|To Do|To Do|
-|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|To Do|To Do|
+|050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/050.%20Pow(x,%20n\Solution.cpp)|To Do|
 |051|[N-Queens](https://leetcode.com/problems/n-queens/description/) |Hard|To Do|To Do|
 |052|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) |Hard|To Do|To Do|
 |053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/053.%20Maximum%20Subarray\Solution.cpp)|To Do|
@@ -202,7 +202,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|To Do|To Do|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List\Solution.cpp)|To Do|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|To Do|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/208.%20Implement%20Trie%20(Prefix%20Tree\Solution.cpp)|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|To Do|To Do|
@@ -225,7 +225,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|To Do|To Do|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|To Do|To Do|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|To Do|To Do|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/231.%20Power%20of%20Tw\Solution.cpp)|To Do|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks\Solution.cpp)|To Do|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|
@@ -319,7 +319,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) :lock:|Medium|To Do|To Do|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/) |Medium|To Do|To Do|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/) :lock:|Medium|To Do|To Do|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) |Easy|To Do|To Do|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/326.%20Power%20of%20Thre\Solution.cpp)|To Do|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) |Hard|To Do|To Do|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) |Medium|To Do|To Do|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) |Hard|To Do|To Do|
@@ -335,7 +335,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/) :lock:|Easy|To Do|To Do|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) :lock:|Hard|To Do|To Do|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|To Do|To Do|
-|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|
+|342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/342.%20Power%20of%20Fou\Solution.cpp)|To Do|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/344.%20Reverse%20String\Solution.java)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String\Solution.java)|
@@ -499,7 +499,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) |Hard|To Do|To Do|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) |Medium|To Do|To Do|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|To Do|To Do|
-|521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|To Do|To Do|
+|521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/521.%20Longest%20Uncommon%20Subsequence%20I\Solution.cpp)|To Do|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/523.%20Continuous%20Subarray%20Sum\Solution.cpp)|To Do|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|To Do|
@@ -544,7 +544,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|To Do|To Do|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/572.%20Subtree%20of%20Another%20Tree\Solution.cpp)|To Do|
 |573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/description/) :lock:|Medium|To Do|To Do|
-|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) |Easy|To Do|To Do|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/575.%20Distribute%20Candie\Solution.cpp)|To Do|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/) |Medium|To Do|To Do|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/581.%20Shortest%20Unsorted%20Continuous%20Subarray\Solution.cpp)|To Do|
 |582|[Kill Process](https://leetcode.com/problems/kill-process/description/) :lock:|Medium|To Do|To Do|
@@ -633,7 +633,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/description/) |Easy|To Do|To Do|
 |691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/description/) |Hard|To Do|To Do|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/) |Medium|To Do|To Do|
-|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) |Easy|To Do|To Do|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/693.%20Binary%20Number%20with%20Alternating%20Bit\Solution.cpp)|To Do|
 |694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/description/) :lock:|Medium|To Do|To Do|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) |Easy|To Do|To Do|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/696.%20Count%20Binary%20Substring\Solution.cpp)|To Do|
@@ -649,7 +649,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|To Do|To Do|
 |718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) |Medium|To Do|To Do|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) |Hard|To Do|To Do|
-|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) |Easy|To Do|To Do|
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/720.%20Longest%20Word%20in%20Dictionar\Solution.cpp)|To Do|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) |Medium|To Do|To Do|
 |722|[Remove Comments](https://leetcode.com/problems/remove-comments/description/) |Medium|To Do|To Do|
 |723|[Candy Crush](https://leetcode.com/problems/candy-crush/description/) :lock:|Medium|To Do|To Do|
@@ -696,7 +696,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/) |Easy|To Do|To Do|
 |428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/) :lock:|Hard|To Do|To Do|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) |Medium|To Do|To Do|
-|762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) |Easy|To Do|To Do|
+|762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representatio\Solution.cpp)|To Do|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) |Medium|To Do|To Do|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) |Medium|To Do|To Do|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) |Hard|To Do|To Do|
@@ -830,6 +830,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|To Do|To Do|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) |Easy|To Do|To Do|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |Medium|To Do|To Do|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|To Do|To Do|
+|877|[Stone Game](https://leetcode.com/problems/stone-game/description/) |Medium|To Do|To Do|
+|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) |Hard|To Do|To Do|
+|879|[Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) |Hard|To Do|To Do|
 |880|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) |Medium|To Do|To Do|
 |881|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) |Medium|To Do|To Do|
 |882|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) |Medium|To Do|To Do|

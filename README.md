@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-02 15:32:53, I have solved **136** / **827** problems while **139** are still locked.
+Until 2018-08-02 16:50:59, I have solved **139** / **827** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 119
+1. C++: 122
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -498,7 +498,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) |Medium|To Do|To Do|
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) |Hard|To Do|To Do|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) |Medium|To Do|To Do|
-|520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|To Do|To Do|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/520.%20Detect%20Capital/Solution.cpp)|To Do|
 |521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/521.%20Longest%20Uncommon%20Subsequence%20I/Solution.cpp)|To Do|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/523.%20Continuous%20Subarray%20Sum/Solution.cpp)|To Do|
@@ -733,7 +733,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|
-|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|To Do|To Do|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/788.%20Rotated%20Digits/Solution.cpp)|To Do|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|
@@ -766,7 +766,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |816|[Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/description/) |Medium|To Do|To Do|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/) |Medium|To Do|To Do|
 |818|[Race Car](https://leetcode.com/problems/race-car/description/) |Hard|To Do|To Do|
-|819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|To Do|To Do|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/819.%20Most%20Common%20Word/Solution.cpp)|To Do|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/description/) |Easy|To Do|To Do|
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/description/) |Medium|To Do|To Do|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/821.%20Shortest%20Distance%20to%20a%20Characte/Solution.cpp)|To Do|

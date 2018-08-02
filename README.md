@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-03 00:09:31, I have solved **146** / **827** problems while **139** are still locked.
+Until 2018-08-03 00:28:38, I have solved **148** / **827** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 129
+1. C++: 131
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -487,7 +487,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) |Easy|To Do|To Do|
 |502|[IPO](https://leetcode.com/problems/ipo/description/) |Hard|To Do|To Do|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) |Medium|To Do|To Do|
-|504|[Base 7](https://leetcode.com/problems/base-7/description/) |Easy|To Do|To Do|
+|504|[Base 7](https://leetcode.com/problems/base-7/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/504.%20Base\Solution.cpp)|To Do|
 |505|[The Maze II](https://leetcode.com/problems/the-maze-ii/description/) :lock:|Medium|To Do|To Do|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/506.%20Relative%20Ranks\Solution.cpp)|To Do|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/507.%20Perfect%20Number\Solution.cpp)|To Do|
@@ -712,7 +712,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|To Do|To Do|
 |770|[Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/description/) |Hard|To Do|To Do|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/771.%20Jewels%20and%20Stone\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/771.%20Jewels%20and%20Stone\Solution.java)|
-|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) |Easy|To Do|To Do|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/700.%20Search%20in%20a%20Binary%20Search%20Tre\Solution.cpp)|To Do|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) |Medium|To Do|To Do|
 |772|[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) :lock:|Hard|To Do|To Do|
 |702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/description/) :lock:|Medium|To Do|To Do|

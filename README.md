@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-07 14:46:24, I have solved **166** / **831** problems while **139** are still locked.
+Until 2018-08-07 16:24:19, I have solved **170** / **831** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 149
+1. C++: 153
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -106,7 +106,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/) |Medium|To Do|To Do|
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) |Medium|To Do|To Do|
 |095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) |Medium|To Do|To Do|
-|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|To Do|To Do|
+|096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/096.%20Unique%20Binary%20Search%20Trees/Solution.cpp)|To Do|
 |097|[Interleaving String](https://leetcode.com/problems/interleaving-string/description/) |Hard|To Do|To Do|
 |098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/098.%20Validate%20Binary%20Search%20Tree/Solution.cpp)|To Do|
 |099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) |Hard|To Do|To Do|
@@ -205,7 +205,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|
-|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|To Do|To Do|
+|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design/Solution.cpp)|To Do|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|To Do|To Do|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|To Do|To Do|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|
@@ -397,7 +397,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/401.%20Binary%20Watc/Soulution.cpp)|To Do|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|
-|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|To Do|To Do|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/404.%20Sum%20of%20Left%20Leaves/Solution.cpp)|To Do|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) |Easy|To Do|To Do|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) |Medium|To Do|To Do|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) |Hard|To Do|To Do|
@@ -609,7 +609,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |666|[Path Sum IV](https://leetcode.com/problems/path-sum-iv/description/) :lock:|Medium|To Do|To Do|
 |667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) |Medium|To Do|To Do|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/) |Hard|To Do|To Do|
-|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |Easy|To Do|To Do|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/669.%20Trim%20a%20Binary%20Search%20Tree/Solution.cpp)|To Do|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/) |Medium|To Do|To Do|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tre/Solution.cpp)|To Do|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) |Medium|To Do|To Do|

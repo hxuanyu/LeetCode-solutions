@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-07 17:53:14, I have solved **174** / **831** problems while **139** are still locked.
+Until 2018-08-07 23:07:32, I have solved **176** / **831** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 157
+1. C++: 159
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -393,7 +393,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|
-|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|To Do|To Do|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/400.%20Nth%20Digit/Solution.cpp)|To Do|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/401.%20Binary%20Watc/Soulution.cpp)|To Do|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|
@@ -647,7 +647,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |715|[Range Module](https://leetcode.com/problems/range-module/description/) |Hard|To Do|To Do|
 |716|[Max Stack](https://leetcode.com/problems/max-stack/description/) :lock:|Hard|To Do|To Do|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/717.%201-bit%20and%202-bit%20Character/Solution.cpp)|To Do|
-|718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) |Medium|To Do|To Do|
+|718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/718.%20Maximum%20Length%20of%20Repeated%20Subarray/Solution.cpp)|To Do|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) |Hard|To Do|To Do|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/720.%20Longest%20Word%20in%20Dictionar/Solution.cpp)|To Do|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) |Medium|To Do|To Do|

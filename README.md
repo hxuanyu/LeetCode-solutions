@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-07 16:24:19, I have solved **170** / **831** problems while **139** are still locked.
+Until 2018-08-07 17:53:14, I have solved **174** / **831** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 153
+1. C++: 157
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -182,7 +182,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/169.%20Majority%20Elemen/Solution.cpp)|To Do|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/171.%20Excel%20Sheet%20Column%20Numbe/Solution.cpp)|To Do|
-|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/172.%20Factorial%20Trailing%20Zeroes/Solution.cpp)|To Do|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/description/) |Medium|To Do|To Do|
@@ -203,7 +203,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List/Solution.cpp)|To Do|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|To Do|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|
-|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|To Do|To Do|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/209.%20Minimum%20Size%20Subarray%20Sum/Solution.cpp)|To Do|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design/Solution.cpp)|To Do|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|To Do|To Do|
@@ -252,7 +252,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) :lock:|Medium|To Do|To Do|
 |256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Easy|To Do|To Do|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/257.%20Binary%20Tree%20Paths/Solution.java)|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|To Do|To Do|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/258.%20Add%20Digits/Solution.cpp)|To Do|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|To Do|To Do|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|To Do|To Do|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) :lock:|Medium|To Do|To Do|
@@ -428,7 +428,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String/Solution.cpp)|To Do|
 |439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|To Do|To Do|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|To Do|To Do|
-|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|To Do|To Do|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/441.%20Arranging%20Coins/Solution.cpp)|To Do|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|To Do|To Do|
 |443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Easy|To Do|To Do|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/description/) :lock:|Medium|To Do|To Do|

@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-07 23:07:32, I have solved **176** / **831** problems while **139** are still locked.
+Until 2018-08-08 00:53:37, I have solved **178** / **831** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 159
+1. C++: 161
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -26,7 +26,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|To Do|To Do|
-|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|To Do|To Do|
+|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/016.%203Sum%20Closest/Solutin.cpp)|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Numbe/Solution.cpp)|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|
@@ -598,7 +598,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|
 |656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|To Do|To Do|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/657.%20Judge%20Route%20Circl/Solution.cpp)|To Do|
-|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/658.%20Find%20K%20Closest%20Elements/Solution.cpp)|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|
 |660|[Remove 9](https://leetcode.com/problems/remove-9/description/) :lock:|Hard|To Do|To Do|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/661.%20Image%20Smoother/Solution.java)|

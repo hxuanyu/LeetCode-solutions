@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-08 00:53:37, I have solved **178** / **831** problems while **139** are still locked.
+Until 2018-08-08 11:06:43, I have solved **179** / **831** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 161
+1. C++: 162
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -430,7 +430,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|To Do|To Do|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/441.%20Arranging%20Coins/Solution.cpp)|To Do|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|To Do|To Do|
-|443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Easy|To Do|To Do|
+|443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/443.%20String%20Compression/Solution.cpp)|To Do|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/description/) :lock:|Medium|To Do|To Do|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) |Medium|To Do|To Do|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) |Hard|To Do|To Do|

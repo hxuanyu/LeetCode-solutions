@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-15 11:18:37, I have solved **188** / **835** problems while **139** are still locked.
+Until 2018-08-16 14:47:27, I have solved **189** / **835** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 171
+1. C++: 172
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -189,7 +189,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|To Do|To Do|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|To Do|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|To Do|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/189.%20Rotate%20Array/Solution.cpp)|To Do|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bit/Solution.cpp)|To Do|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/198.%20House%20Robbe/Solution.cpp)|To Do|

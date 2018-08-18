@@ -1,33 +1,40 @@
-// Given two binary strings, return their sum (also a binary string).
-//
-// The input strings are both non-empty and contains only characters 1 or 0.
+// Given a string, find the length of the longest substring without repeating characters.
 //
 // Example 1:
 //
-// Input: a = "11", b = "1"
-// Output: "100"
+// Input: "abcabcbb"
+// Output: 3
+// Explanation: The answer is "abc", which the length is 3.
 // Example 2:
 //
-// Input: a = "1010", b = "1011"
-// Output: "10101"
+// Input: "bbbbb"
+// Output: 1
+// Explanation: The answer is "b", with the length of 1.
+// Example 3:
+//
+// Input: "pwwkew"
+// Output: 3
+// Explanation: The answer is "wke", with the length of 3.
+//              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 class Solution {
 public:
-    string addBinary(string a, string b) {
-        int posa = a.length() - 1;
-        int posb = b.length() - 1;
+    int lengthOfLongestSubstring(string s) {
+        set<char> vset;
+        int start = 0;
+        int maxlen = INT_MIN;
+        for (int i = 0; i < s.size(); i++) {
+            if (vset.count(s[i]) == 0) vset.insert(s[i]);
+            else {
+                int len = i - start;
+                maxlen = max(maxlen, len);
 
-        int carrage = 0;
-        int sum = 0;
-        string rslt;
-        while ((posa >= 0) || (posb >= 0)) {
-            sum = carrage;
-            if (posa >= 0) sum += (a[posa--] - '0');
-            if (posb >= 0) sum += (b[posb--] - '0');
-            rslt = std::to_string(sum % 2) + rslt;
-            carrage = sum / 2;
+                while (vset.count(s[i])) {
+                    vset.erase(s[start++]);
+                }
+                vset.insert(s[i]);
+            }
         }
 
-        if (carrage) rslt = '1' + rslt;
-        return rslt;
+        return max(maxlen, int(vset.size()));
     }
 };

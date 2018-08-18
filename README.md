@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-18 15:51:19, I have solved **204** / **835** problems while **139** are still locked.
+Until 2018-08-18 16:57:28, I have solved **207** / **835** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 187
+1. C++: 190
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -88,7 +88,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|To Do|To Do|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/077.%20Combination\Solution.cpp)|To Do|
-|078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|To Do|To Do|
+|078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/078.%20Subset\Solution.cpp)|To Do|
 |079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|
@@ -491,7 +491,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |505|[The Maze II](https://leetcode.com/problems/the-maze-ii/description/) :lock:|Medium|To Do|To Do|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/506.%20Relative%20Ranks\Solution.cpp)|To Do|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/507.%20Perfect%20Number\Solution.cpp)|To Do|
-|508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) |Medium|To Do|To Do|
+|508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/508.%20Most%20Frequent%20Subtree%20Su\Solution.cpp)|To Do|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) |Medium|To Do|To Do|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) |Hard|To Do|To Do|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |Medium|To Do|To Do|
@@ -506,7 +506,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/525.%20Contiguous%20Array\Solution.cpp)|To Do|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) |Medium|To Do|To Do|
 |527|[Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) :lock:|Hard|To Do|To Do|
-|529|[Minesweeper](https://leetcode.com/problems/minesweeper/description/) |Medium|To Do|To Do|
+|529|[Minesweeper](https://leetcode.com/problems/minesweeper/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/529.%20Minesweepe\Solution.cpp)|To Do|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) |Easy|To Do|To Do|
 |531|[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/description/) :lock:|Medium|To Do|To Do|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |Easy|To Do|To Do|

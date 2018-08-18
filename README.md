@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-18 16:57:28, I have solved **207** / **835** problems while **139** are still locked.
+Until 2018-08-18 17:49:55, I have solved **208** / **835** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 190
+1. C++: 191
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -407,7 +407,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|To Do|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/412.%20Fizz%20Buz\Solution.cpp)|To Do|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|To Do|To Do|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/414.%20Third%20Maximum%20Numbe\Solution.cpp)|To Do|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/415.%20Add%20Strings\Solution.cpp)|To Do|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |Medium|To Do|To Do|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |Medium|To Do|To Do|

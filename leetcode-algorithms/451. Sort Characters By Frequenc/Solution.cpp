@@ -65,3 +65,38 @@ public:
         return rslt;
     }
 };
+
+// solution 2
+struct item {
+    item(char val_, int count_) { val = val_; count = count_; }
+    char val;
+    int count;
+};
+
+class cmp {
+public:
+    bool operator()(item& a, item& b) { return a.count > b.count; }
+};
+
+class Solution {
+public:
+    string frequencySort(string s) {
+        map<char, int> count;
+        for (auto c : s) count[c]++;
+
+        vector<item> vec;
+        for (auto v : count) {
+            vec.push_back(item(v.first, v.second));
+        }
+
+        string rslt = "";
+        sort(vec.begin(), vec.end(), cmp());
+        for (auto v : vec) {
+            while (v.count--) {
+                rslt += v.val;
+            }
+        }
+
+        return rslt;
+    }
+};

@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-21 16:35:17, I have solved **209** / **839** problems while **139** are still locked.
+Until 2018-08-22 13:18:48, I have solved **213** / **839** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 192
+1. C++: 196
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -89,7 +89,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/076.%20Minimum%20Window%20Substring/Solution.cpp)|To Do|
 |077|[Combinations](https://leetcode.com/problems/combinations/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/077.%20Combination/Solution.cpp)|To Do|
 |078|[Subsets](https://leetcode.com/problems/subsets/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/078.%20Subset/Solution.cpp)|To Do|
-|079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|To Do|To Do|
+|079|[Word Search](https://leetcode.com/problems/word-search/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/079.%20Word%20Search/Solution.cpp)|To Do|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) |Medium|To Do|To Do|
 |081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) |Medium|To Do|To Do|
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) |Medium|To Do|To Do|
@@ -99,7 +99,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |086|[Partition List](https://leetcode.com/problems/partition-list/description/) |Medium|To Do|To Do|
 |087|[Scramble String](https://leetcode.com/problems/scramble-string/description/) |Hard|To Do|To Do|
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |Easy|To Do|To Do|
-|089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|To Do|To Do|
+|089|[Gray Code](https://leetcode.com/problems/gray-code/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/089.%20Gray%20Code/Solution.cpp)|To Do|
 |090|[Subsets II](https://leetcode.com/problems/subsets-ii/description/) |Medium|To Do|To Do|
 |091|[Decode Ways](https://leetcode.com/problems/decode-ways/description/) |Medium|To Do|To Do|
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) |Medium|To Do|To Do|
@@ -206,7 +206,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/209.%20Minimum%20Size%20Subarray%20Sum/Solution.cpp)|To Do|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) |Medium|To Do|To Do|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design/Solution.cpp)|To Do|
-|212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|To Do|To Do|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/212.%20Word%20Search%20II/Solution.cpp)|To Do|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/213.%20House%20Robber%20I/Solution.cpp)|To Do|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Arra/Solution.cpp)|To Do|
@@ -233,7 +233,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tre/Solution.cpp)|To Do|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.cpp)|To Do|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Sel/Solution.cpp)|To Do|
-|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|To Do|To Do|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/239.%20Sliding%20Window%20Maximum/Solution.cpp)|To Do|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20I/Solution.cpp)|To Do|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |Medium|To Do|To Do|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/242.%20Valid%20Anagram/Solution.cpp)|To Do|

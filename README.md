@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-23 09:45:42, I have solved **217** / **839** problems while **139** are still locked.
+Until 2018-08-23 17:36:45, I have solved **219** / **839** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 200
+1. C++: 202
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -23,7 +23,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|
-|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|To Do|To Do|
+|013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer/Solution.cpp)|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/015.%203Su/Solution.cpp)|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/016.%203Sum%20Closest/Solutin.cpp)|To Do|
@@ -156,7 +156,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|To Do|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|To Do|To Do|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) |Hard|To Do|To Do|
-|146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|To Do|To Do|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/146.%20LRU%20Cache/Solution.cpp)|To Do|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) |Medium|To Do|To Do|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/) |Medium|To Do|To Do|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) |Hard|To Do|To Do|

@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-24 00:05:45, I have solved **220** / **839** problems while **139** are still locked.
+Until 2018-08-24 15:54:41, I have solved **224** / **839** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 203
+1. C++: 207
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -21,10 +21,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/008.%20String%20to%20Integer%20(atoi)\Solution.java)|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/009.%20Palindrome%20Number\Solution.cpp)|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|
-|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|To Do|To Do|
+|011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Wate\Solution.cpp)|To Do|
 |012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer\Solution.cpp)|To Do|
-|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|To Do|To Do|
+|014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefi\Solution.cpp)|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/015.%203Su\Solution.cpp)|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/016.%203Sum%20Closest\Solutin.cpp)|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Numbe\Solution.cpp)|To Do|
@@ -52,7 +52,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/039.%20Combination%20Su\Solution.cpp)|To Do|
 |040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/040.%20Combination%20Sum%20I\Solution.cpp)|To Do|
 |041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) |Hard|To Do|To Do|
-|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|To Do|To Do|
+|042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/042.%20Trapping%20Rain%20Wate\Solution.cpp)|To Do|
 |043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) |Medium|To Do|To Do|
 |044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/) |Hard|To Do|To Do|
 |045|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) |Hard|To Do|To Do|
@@ -266,7 +266,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) :lock:|Easy|To Do|To Do|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:|Medium|To Do|To Do|
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) :lock:|Hard|To Do|To Do|
-|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|To Do|To Do|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/273.%20Integer%20to%20English%20Word\Solution.cpp)|To Do|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|To Do|To Do|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|To Do|To Do|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|To Do|To Do|

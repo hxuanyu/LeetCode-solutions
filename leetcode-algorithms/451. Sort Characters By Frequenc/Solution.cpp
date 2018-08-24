@@ -100,3 +100,30 @@ public:
         return rslt;
     }
 };
+
+class Solution {
+public:
+    string frequencySort(string s) {
+        map<char, int> vmap;
+        map<int, vector<int>, greater<int>> countmap;
+
+        for (auto c : s) {
+            vmap[c]++;
+        }
+
+        for (auto item : vmap) {
+            countmap[item.second].push_back(item.first);
+        }
+
+        string rslt = "";
+        for (auto item : countmap) {
+            for (auto c : item.second) {
+                for (int i = 0; i < item.first; i++) {
+                    rslt += c;
+                }
+            }
+        }
+
+        return rslt;
+    }
+};

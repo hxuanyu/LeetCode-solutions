@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-24 15:54:41, I have solved **224** / **839** problems while **139** are still locked.
+Until 2018-08-24 22:54:01, I have solved **226** / **839** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 207
+1. C++: 209
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -389,7 +389,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/description/) |Medium|To Do|To Do|
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/) |Medium|To Do|To Do|
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) |Medium|To Do|To Do|
-|396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/) |Medium|To Do|To Do|
+|396|[Rotate Function](https://leetcode.com/problems/rotate-function/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/396.%20Rotate%20Functio\Solution.cpp)|To Do|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/description/) |Medium|To Do|To Do|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|
@@ -446,7 +446,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/description/) |Medium|To Do|To Do|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) |Medium|To Do|To Do|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Easy|To Do|To Do|
-|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) |Easy|To Do|To Do|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/459.%20Repeated%20Substring%20Patter\Solution.cpp)|To Do|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |Hard|To Do|To Do|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/461.%20Hamming%20Distanc\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/461.%20Hamming%20Distanc\Solution.java)|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) |Medium|To Do|To Do|

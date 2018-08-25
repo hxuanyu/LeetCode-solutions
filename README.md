@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-24 22:54:01, I have solved **226** / **839** problems while **139** are still locked.
+Until 2018-08-25 23:53:52, I have solved **228** / **839** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 209
+1. C++: 211
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -447,7 +447,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) |Medium|To Do|To Do|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Easy|To Do|To Do|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/459.%20Repeated%20Substring%20Patter\Solution.cpp)|To Do|
-|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |Hard|To Do|To Do|
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/460.%20LFU%20Cach\Solution.cpp)|To Do|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/461.%20Hamming%20Distanc\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/461.%20Hamming%20Distanc\Solution.java)|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/) |Medium|To Do|To Do|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/463.%20Island%20Perimete\Solution.cpp)|To Do|
@@ -581,7 +581,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/637.%20Average%20of%20Levels%20in%20Binary%20Tree\Solution.java)|
 |638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/description/) |Medium|To Do|To Do|
 |639|[Decode Ways II](https://leetcode.com/problems/decode-ways-ii/description/) |Hard|To Do|To Do|
-|640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/) |Medium|To Do|To Do|
+|640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/640.%20Solve%20the%20Equatio\Solution.cpp)|To Do|
 |642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/description/) :lock:|Hard|To Do|To Do|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/643.%20Maximum%20Average%20Subarray%20I\Solution.cpp)|To Do|
 |644|[Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/description/) :lock:|Hard|To Do|To Do|

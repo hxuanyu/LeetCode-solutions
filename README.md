@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-27 17:39:19, I have solved **235** / **843** problems while **139** are still locked.
+Until 2018-08-27 23:30:37, I have solved **237** / **843** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 218
+1. C++: 220
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -218,7 +218,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/) |Medium|To Do|To Do|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) |Medium|To Do|To Do|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) |Medium|To Do|To Do|
-|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|To Do|To Do|
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/224.%20Basic%20Calculato\Solution.cpp)|To Do|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |Easy|To Do|To Do|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree\Solution.cpp)|To Do|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/227.%20Basic%20Calculator%20II\Solution.cpp)|To Do|
@@ -424,7 +424,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) |Easy|To Do|To Do|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |Medium|To Do|To Do|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) |Medium|To Do|To Do|
-|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|To Do|To Do|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/437.%20Path%20Sum%20II\Solution.cpp)|To Do|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String\Solution.cpp)|To Do|
 |439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|To Do|To Do|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|To Do|To Do|

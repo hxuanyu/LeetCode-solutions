@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-25 23:53:52, I have solved **228** / **839** problems while **139** are still locked.
+Until 2018-08-27 14:37:27, I have solved **230** / **843** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 211
+1. C++: 213
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -43,7 +43,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |030|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) |Hard|To Do|To Do|
 |031|[Next Permutation](https://leetcode.com/problems/next-permutation/description/) |Medium|To Do|To Do|
 |032|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) |Hard|To Do|To Do|
-|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|To Do|To Do|
+|033|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/033.%20Search%20in%20Rotated%20Sorted%20Arra\Solution.cpp)|To Do|
 |034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |Medium|To Do|To Do|
 |035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/035.%20Search%20Insert%20Position\Solution.java)|
 |036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/036.%20Valid%20Sudok\Solution.cpp)|To Do|
@@ -288,7 +288,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |292|[Nim Game](https://leetcode.com/problems/nim-game/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/292.%20Nim%20Gam\Solution.cpp)|To Do|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/description/) :lock:|Easy|To Do|To Do|
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) :lock:|Medium|To Do|To Do|
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |Hard|To Do|To Do|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/295.%20Find%20Median%20from%20Data%20Strea\Solution.cpp)|To Do|
 |296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) :lock:|Hard|To Do|To Do|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/297.%20Serialize%20and%20Deserialize%20Binary%20Tre\Solution.cpp)|To Do|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|To Do|To Do|
@@ -850,3 +850,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |Medium|To Do|To Do|
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) |Medium|To Do|To Do|
 |891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) |Hard|To Do|To Do|
+|892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) |Easy|To Do|To Do|
+|893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|
+|894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|
+|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|

@@ -43,3 +43,38 @@ public:
         return s.substr(pos, maxlen);
     }
 };
+
+// a dp solution
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        if (s.size() <= 1) return s;
+
+        int size = s.size();
+        vector<vector<bool>> bpar(size, vector<bool>(size, false));
+
+        int maxlen = 1;
+        int pos = 0;
+        for (int i = 0; i < size; i++) bpar[i][i] = true;
+        for (int i = 0; i < size - 1; i++) {
+            if (bpar[i][i + 1] = (s[i] == s[i + 1])) {
+                maxlen = 2;
+                pos = i;
+            }
+        }
+
+        for (int len = 3; len <= size; len++) {
+            for (int i = 0; i < size; i++) {
+                int j = i + len - 1;
+                if (j >= size) continue;
+
+                if ((bpar[i][j] = (s[i] == s[j]) && bpar[i + 1][j - 1]) && (j - i + 1 > maxlen)) {
+                    maxlen = j - i + 1;
+                    pos = i;
+                }
+            }
+        }
+
+        return s.substr(pos, maxlen);
+    }
+};

@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-29 17:45:30, I have solved **265** / **843** problems while **139** are still locked.
+Until 2018-08-30 14:14:55, I have solved **269** / **843** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 248
+1. C++: 252
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -28,7 +28,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/015.%203Su/Solution.cpp)|To Do|
 |016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/016.%203Sum%20Closest/Solutin.cpp)|To Do|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/017.%20Letter%20Combinations%20of%20a%20Phone%20Numbe/Solution.cpp)|To Do|
-|018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|
+|018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/018.%204Sum/Solution.cpp)|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/Solution.cpp)|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/021.%20Merge%20Two%20Sorted%20Lists/Solution.cpp)|To Do|
@@ -441,7 +441,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/451.%20Sort%20Characters%20By%20Frequenc/Solution.cpp)|To Do|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) |Medium|To Do|To Do|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) |Easy|To Do|To Do|
-|454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/) |Medium|To Do|To Do|
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/454.%204Sum%20II/Solution.cpp)|To Do|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/455.%20Assign%20Cookie/Solution.cpp)|To Do|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/description/) |Medium|To Do|To Do|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) |Medium|To Do|To Do|
@@ -495,7 +495,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value/Solution.cpp)|To Do|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail/description/) |Hard|To Do|To Do|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row/Solution.cpp)|To Do|
-|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) |Medium|To Do|To Do|
+|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/516.%20Longest%20Palindromic%20Subsequence/Solution.cpp)|To Do|
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) |Hard|To Do|To Do|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) |Medium|To Do|To Do|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/520.%20Detect%20Capital/Solution.cpp)|To Do|
@@ -587,7 +587,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |644|[Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/description/) :lock:|Hard|To Do|To Do|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/645.%20Set%20Mismatch/Solution.cpp)|To Do|
 |646|[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/description/) |Medium|To Do|To Do|
-|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |Medium|To Do|To Do|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/647.%20Palindromic%20Substrings/Solution.cpp)|To Do|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/description/) |Medium|To Do|To Do|
 |649|[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/) |Medium|To Do|To Do|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) |Medium|To Do|To Do|

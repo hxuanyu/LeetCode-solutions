@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-08-29 23:55:07, I have solved **274** / **843** problems while **139** are still locked.
+Until 2018-08-30 23:07:56, I have solved **280** / **843** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 257
+1. C++: 263
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -22,7 +22,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/009.%20Palindrome%20Number\Solution.cpp)|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|
 |011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/011.%20Container%20With%20Most%20Wate\Solution.cpp)|To Do|
-|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|To Do|To Do|
+|012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/012.%20Integer%20to%20Roma\Solution.cpp)|To Do|
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/013.%20Roman%20to%20Integer\Solution.cpp)|To Do|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/014.%20Longest%20Common%20Prefi\Solution.cpp)|To Do|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/015.%203Su\Solution.cpp)|To Do|
@@ -71,7 +71,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) |Easy|To Do|To Do|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) |Medium|To Do|To Do|
 |060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/060.%20Permutation%20Sequenc\Solution.cpp)|To Do|
-|061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|To Do|To Do|
+|061|[Rotate List](https://leetcode.com/problems/rotate-list/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/061.%20Rotate%20Lis\Solution.cpp)|To Do|
 |062|[Unique Paths](https://leetcode.com/problems/unique-paths/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/062.%20Unique%20Path\Solution.cpp)|To Do|
 |063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/063.%20Unique%20Paths%20I\Solution.cpp)|To Do|
 |064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/064.%20Minimum%20Path%20Su\Solution.cpp)|To Do|
@@ -183,7 +183,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/171.%20Excel%20Sheet%20Column%20Numbe\Solution.cpp)|To Do|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/172.%20Factorial%20Trailing%20Zeroes\Solution.cpp)|To Do|
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/173.%20Binary%20Search%20Tree%20Iterato\Solution.cpp)|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/description/) |Medium|To Do|To Do|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/186.%20Reverse%20Words%20in%20a%20String%20II\Solution.cpp)|To Do|
@@ -270,7 +270,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|To Do|To Do|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|To Do|To Do|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|To Do|To Do|
-|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) :lock:|Medium|To Do|To Do|
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/277.%20Find%20the%20Celebrit\Solution.cpp)|To Do|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/) |Easy|To Do|To Do|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) |Medium|To Do|To Do|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) :lock:|Medium|To Do|To Do|
@@ -363,7 +363,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/367.%20Valid%20Perfect%20Squar\Solution.cpp)|To Do|
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) |Medium|To Do|To Do|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/description/) :lock:|Medium|To Do|To Do|
-|370|[Range Addition](https://leetcode.com/problems/range-addition/description/) :lock:|Medium|To Do|To Do|
+|370|[Range Addition](https://leetcode.com/problems/range-addition/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/370.%20Range%20Additio\Solution.cpp)|To Do|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) |Easy|To Do|To Do|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/description/) |Medium|To Do|To Do|
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) |Medium|To Do|To Do|
@@ -555,7 +555,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) |Medium|To Do|To Do|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/description/) |Medium|To Do|To Do|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/594.%20Longest%20Harmonious%20Subsequenc\Solution.cpp)|To Do|
-|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) |Easy|To Do|To Do|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/598.%20Range%20Addition%20I\Solution.cpp)|To Do|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) |Easy|To Do|To Do|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) |Hard|To Do|To Do|
 |604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/description/) :lock:|Easy|To Do|To Do|

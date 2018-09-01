@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-09-01 01:08:37, I have solved **291** / **843** problems while **139** are still locked.
+Until 2018-09-01 16:05:34, I have solved **294** / **843** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 274
+1. C++: 277
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -83,7 +83,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/070.%20Climbing%20Stairs/Solution.cpp)|To Do|
 |071|[Simplify Path](https://leetcode.com/problems/simplify-path/description/) |Medium|To Do|To Do|
 |072|[Edit Distance](https://leetcode.com/problems/edit-distance/description/) |Hard|To Do|To Do|
-|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|To Do|To Do|
+|073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/073.%20Set%20Matrix%20Zeroes/Solution.cpp)|To Do|
 |074|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/074.%20Search%20a%202D%20Matri/Solution.cpp)|To Do|
 |075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) |Medium|To Do|To Do|
 |076|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/076.%20Minimum%20Window%20Substring/Solution.cpp)|To Do|
@@ -243,7 +243,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/description/) :lock:|Easy|To Do|To Do|
 |247|[Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/description/) :lock:|Medium|To Do|To Do|
 |248|[Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/description/) :lock:|Hard|To Do|To Do|
-|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) :lock:|Medium|To Do|To Do|
+|249|[Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/249.%20Group%20Shifted%20Strings/Solution.cpp)|To Do|
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/description/) :lock:|Medium|To Do|To Do|
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/251.%20Flatten%202D%20Vecto/Solution.cpp)|To Do|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/) :lock:|Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/252.%20Meeting%20Room/Solution.cpp)|To Do|
@@ -621,7 +621,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/) |Medium|To Do|To Do|
 |679|[24 Game](https://leetcode.com/problems/24-game/description/) |Hard|To Do|To Do|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/680.%20Valid%20Palindrome%20II/Solution.cpp)|To Do|
-|681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) :lock:|Medium|To Do|To Do|
+|681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/681.%20Next%20Closest%20Time/Solution.cpp)|To Do|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/682.%20Baseball%20Game/Solution.cpp)|To Do|
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) :lock:|Hard|To Do|To Do|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) |Medium|To Do|To Do|

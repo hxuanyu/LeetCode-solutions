@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-09-01 16:05:34, I have solved **294** / **843** problems while **139** are still locked.
+Until 2018-09-01 23:27:05, I have solved **298** / **843** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 277
+1. C++: 281
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -513,7 +513,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |533|[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/description/) :lock:|Medium|To Do|To Do|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) |Medium|To Do|To Do|
 |536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/description/) :lock:|Medium|To Do|To Do|
-|537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) |Medium|To Do|To Do|
+|537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/537.%20Complex%20Number%20Multiplication/Solution.cpp)|To Do|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) |Easy|To Do|To Do|
 |539|[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/description/) |Medium|To Do|To Do|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) |Medium|To Do|To Do|
@@ -839,7 +839,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) |Medium|To Do|To Do|
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) |Medium|To Do|To Do|
 |880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) |Medium|To Do|To Do|
-|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) |Medium|To Do|To Do|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/881.%20Random%20Flip%20Matrix/Solution.cpp)|To Do|
 |882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) |Hard|To Do|To Do|
 |883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/883.%20Projection%20Area%20of%203D%20Shapes/Solution.cpp)|To Do|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/884.%20Uncommon%20Words%20from%20Two%20Sentences/Solution.cpp)|To Do|
@@ -848,9 +848,9 @@ Note: :lock: means you need to buy a book from LeetCode
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/) |Hard|To Do|To Do|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/888.%20Fair%20Candy%20Swap/Solution.cpp)|To Do|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |Medium|To Do|To Do|
-|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) |Medium|To Do|To Do|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/890.%20Find%20and%20Replace%20Pattern/Solution.cpp)|To Do|
 |891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) |Hard|To Do|To Do|
-|892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) |Easy|To Do|To Do|
+|892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/892.%20Surface%20Area%20of%203D%20Shapes/Solution.cpp)|To Do|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/893.%20Groups%20of%20Special-Equivalent%20Strings/Solution.cpp)|To Do|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|

@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-09-01 23:27:05, I have solved **298** / **843** problems while **139** are still locked.
+Until 2018-09-02 16:24:46, I have solved **301** / **847** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 281
+1. C++: 284
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -828,8 +828,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) |Medium|To Do|To Do|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/872.%20Leaf-Similar%20Tree/Solution.cpp)|To Do|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|To Do|To Do|
-|874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) |Easy|To Do|To Do|
-|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |Medium|To Do|To Do|
+|874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/874.%20Walking%20Robot%20Simulation/Solution.cpp)|To Do|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/875.%20Koko%20Eating%20Bananas/Solution.cpp)|To Do|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/876.%20Middle%20of%20the%20Linked%20List/Solution.cpp)|To Do|
 |877|[Stone Game](https://leetcode.com/problems/stone-game/description/) |Medium|To Do|To Do|
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) |Hard|To Do|To Do|
@@ -838,7 +838,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |519|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) |Medium|To Do|To Do|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) |Medium|To Do|To Do|
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) |Medium|To Do|To Do|
-|880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) |Medium|To Do|To Do|
+|880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/880.%20Decoded%20String%20at%20Index/Solution.cpp)|To Do|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/881.%20Random%20Flip%20Matrix/Solution.cpp)|To Do|
 |882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) |Hard|To Do|To Do|
 |883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/883.%20Projection%20Area%20of%203D%20Shapes/Solution.cpp)|To Do|
@@ -854,3 +854,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/893.%20Groups%20of%20Special-Equivalent%20Strings/Solution.cpp)|To Do|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|To Do|To Do|
+|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) |Easy|To Do|To Do|
+|898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |Medium|To Do|To Do|
+|899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) |Hard|To Do|To Do|

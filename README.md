@@ -1,8 +1,8 @@
 # Keep thinking, keep alive
-Until 2018-09-03 15:40:28, I have solved **310** / **847** problems while **139** are still locked.
+Until 2018-09-03 20:54:41, I have solved **311** / **847** problems while **139** are still locked.
 
 Completion statistic: 
-1. C++: 293
+1. C++: 294
 2. Java: 26
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -173,7 +173,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/160.%20Intersection%20of%20Two%20Linked%20Lists\Solution.cpp)|To Do|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/description/) :lock:|Medium|To Do|To Do|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/162.%20Find%20Peak%20Elemen\Solution.cpp)|To Do|
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Medium|To Do|To Do|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/163.%20Missing%20Range\Solution.cpp)|To Do|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) |Hard|To Do|To Do|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/165.%20Compare%20Version%20Numbers\Solution.cpp)|To Do|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) |Medium|To Do|To Do|

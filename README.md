@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-03-28 22:19:20, I have solved **316** / **965** problems while **140** are still locked.
+Until 2019-03-28 22:53:28, I have solved **319** / **965** problems while **140** are still locked.
 
 Completion statistic: 
 1. C++: 294
-2. Java: 74
+2. Java: 109
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -229,14 +229,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks\Solution.cpp)|To Do|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tre\Solution.cpp)|To Do|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tre\Solution.cpp)|To Do|
-|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List\Solution.cpp)|To Do|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tre\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tre\Solution.java)|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tre\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tre\Solution.java)|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List\Solution.java)|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/238.%20Product%20of%20Array%20Except%20Sel\Solution.cpp)|To Do|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/239.%20Sliding%20Window%20Maximum\Solution.cpp)|To Do|
-|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20I\Solution.cpp)|To Do|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20I\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/240.%20Search%20a%202D%20Matrix%20I\Solution.java)|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) |Medium|To Do|To Do|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/242.%20Valid%20Anagram\Solution.cpp)|To Do|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/242.%20Valid%20Anagram\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/242.%20Valid%20Anagram\Solution.java)|
 |243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/description/) :lock:|Easy|To Do|To Do|
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/description/) :lock:|Medium|To Do|To Do|
 |245|[Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/description/) :lock:|Medium|To Do|To Do|
@@ -252,7 +252,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/description/) :lock:|Medium|To Do|To Do|
 |256|[Paint House](https://leetcode.com/problems/paint-house/description/) :lock:|Easy|To Do|To Do|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/257.%20Binary%20Tree%20Paths\Solution.java)|
-|258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/258.%20Add%20Digits\Solution.cpp)|To Do|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/258.%20Add%20Digits\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/258.%20Add%20Digits\Solution.java)|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|To Do|To Do|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|To Do|To Do|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) :lock:|Medium|To Do|To Do|
@@ -261,12 +261,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/) :lock:|Hard|To Do|To Do|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) :lock:|Easy|To Do|To Do|
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/description/) :lock:|Medium|To Do|To Do|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/268.%20Missing%20Number\Solution.cpp)|To Do|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/268.%20Missing%20Number\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/268.%20Missing%20Number\Solution.java)|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/) :lock:|Hard|To Do|To Do|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/description/) :lock:|Easy|To Do|To Do|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) :lock:|Medium|To Do|To Do|
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/description/) :lock:|Hard|To Do|To Do|
-|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/273.%20Integer%20to%20English%20Word\Solution.cpp)|To Do|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/273.%20Integer%20to%20English%20Word\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/273.%20Integer%20to%20English%20Word\Solution.java)|
 |274|[H-Index](https://leetcode.com/problems/h-index/description/) |Medium|To Do|To Do|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/description/) |Medium|To Do|To Do|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/description/) :lock:|Easy|To Do|To Do|
@@ -276,8 +276,8 @@ Note: :lock: means you need to buy a book from LeetCode
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/description/) :lock:|Medium|To Do|To Do|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/description/) :lock:|Medium|To Do|To Do|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) |Hard|To Do|To Do|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/283.%20Move%20Zeroes\Solution.cpp)|To Do|
-|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|To Do|To Do|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/283.%20Move%20Zeroes\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/283.%20Move%20Zeroes\Solution.java)|
+|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) |Medium|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/284.%20Peeking%20Iterato\Solution.java)|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/description/) :lock:|Medium|To Do|To Do|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/286.%20Walls%20and%20Gates\Solution.cpp)|To Do|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |Medium|To Do|To Do|
@@ -285,7 +285,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/description/) |Medium|To Do|To Do|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/description/) |Easy|To Do|To Do|
 |291|[Word Pattern II](https://leetcode.com/problems/word-pattern-ii/description/) :lock:|Hard|To Do|To Do|
-|292|[Nim Game](https://leetcode.com/problems/nim-game/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/292.%20Nim%20Gam\Solution.cpp)|To Do|
+|292|[Nim Game](https://leetcode.com/problems/nim-game/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/292.%20Nim%20Gam\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/292.%20Nim%20Gam\Solution.java)|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/description/) :lock:|Easy|To Do|To Do|
 |294|[Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) :lock:|Medium|To Do|To Do|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/295.%20Find%20Median%20from%20Data%20Strea\Solution.cpp)|To Do|
@@ -319,7 +319,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) :lock:|Medium|To Do|To Do|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/) |Medium|To Do|To Do|
 |325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/description/) :lock:|Medium|To Do|To Do|
-|326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/326.%20Power%20of%20Thre\Solution.cpp)|To Do|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/326.%20Power%20of%20Thre\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/326.%20Power%20of%20Thre\Solution.java)|
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/description/) |Hard|To Do|To Do|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) |Medium|To Do|To Do|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) |Hard|To Do|To Do|
@@ -343,7 +343,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/347.%20Top%20K%20Frequent%20Element\Solution.cpp)|To Do|
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/) :lock:|Medium|To Do|To Do|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/349.%20Intersection%20of%20Two%20Arrays\Solution.java)|
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/350.%20Intersection%20of%20Two%20Arrays%20II\Solution.cpp)|To Do|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/350.%20Intersection%20of%20Two%20Arrays%20II\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/350.%20Intersection%20of%20Two%20Arrays%20II\Solution.java)|
 |351|[Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/description/) :lock:|Medium|To Do|To Do|
 |352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) |Hard|To Do|To Do|
 |353|[Design Snake Game](https://leetcode.com/problems/design-snake-game/description/) :lock:|Medium|To Do|To Do|
@@ -373,16 +373,16 @@ Note: :lock: means you need to buy a book from LeetCode
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/377.%20Combination%20Sum%20I\Solution.cpp)|To Do|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) |Medium|To Do|To Do|
 |379|[Design Phone Directory](https://leetcode.com/problems/design-phone-directory/description/) :lock:|Medium|To Do|To Do|
-|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/380.%20Insert%20Delete%20GetRandom%20O(1)\Solution.cpp)|To Do|
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/380.%20Insert%20Delete%20GetRandom%20O(1)\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/380.%20Insert%20Delete%20GetRandom%20O(1)\Solution.java)|
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) |Hard|To Do|To Do|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/) |Medium|To Do|To Do|
-|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/383.%20Ransom%20Not\Solution.cpp)|To Do|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/383.%20Ransom%20Not\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/383.%20Ransom%20Not\Solution.java)|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) |Medium|To Do|To Do|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/description/) |Medium|To Do|To Do|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) |Medium|To Do|To Do|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20Strin\Solution.cpp)|To Do|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20Strin\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/387.%20First%20Unique%20Character%20in%20a%20Strin\Solution.java)|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) |Medium|To Do|To Do|
-|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference\Solution.cpp)|To Do|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/389.%20Find%20the%20Difference\Solution.java)|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/description/) |Medium|To Do|To Do|
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |Hard|To Do|To Do|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) |Medium|To Do|To Do|
@@ -394,21 +394,21 @@ Note: :lock: means you need to buy a book from LeetCode
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/description/) |Medium|To Do|To Do|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) |Medium|To Do|To Do|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/400.%20Nth%20Digit\Solution.cpp)|To Do|
-|401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/401.%20Binary%20Watc\Soulution.cpp)|To Do|
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/401.%20Binary%20Watc\Soulution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/401.%20Binary%20Watc\Solution.java)|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) |Medium|To Do|To Do|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/description/) |Hard|To Do|To Do|
-|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/404.%20Sum%20of%20Left%20Leaves\Solution.cpp)|To Do|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/404.%20Sum%20of%20Left%20Leaves\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/404.%20Sum%20of%20Left%20Leaves\Solution.java)|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) |Easy|To Do|To Do|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) |Medium|To Do|To Do|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) |Hard|To Do|To Do|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/) :lock:|Easy|To Do|To Do|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/409.%20Longest%20Palindrom\Solution.cpp)|To Do|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/409.%20Longest%20Palindrom\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/409.%20Longest%20Palindrom\Solution.java)|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) |Hard|To Do|To Do|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/description/) :lock:|Hard|To Do|To Do|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/412.%20Fizz%20Buz\Solution.cpp)|To Do|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/412.%20Fizz%20Buz\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/412.%20Fizz%20Buz\Solution.java)|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|To Do|To Do|
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/414.%20Third%20Maximum%20Numbe\Solution.cpp)|To Do|
-|415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/415.%20Add%20Strings\Solution.cpp)|To Do|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/414.%20Third%20Maximum%20Numbe\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/414.%20Third%20Maximum%20Numbe\Solution.java)|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/415.%20Add%20Strings\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/415.%20Add%20Strings\Solution.java)|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |Medium|To Do|To Do|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |Medium|To Do|To Do|
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/) :lock:|Medium|To Do|To Do|
@@ -421,28 +421,28 @@ Note: :lock: means you need to buy a book from LeetCode
 |425|[Word Squares](https://leetcode.com/problems/word-squares/description/) :lock:|Hard|To Do|To Do|
 |432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/) |Hard|To Do|To Do|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/) |Medium|To Do|To Do|
-|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) |Easy|To Do|To Do|
+|434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/434.%20Number%20of%20Segments%20in%20a%20Strin\Solution.java)|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) |Medium|To Do|To Do|
 |436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) |Medium|To Do|To Do|
-|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/437.%20Path%20Sum%20II\Solution.cpp)|To Do|
-|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String\Solution.cpp)|To Do|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/437.%20Path%20Sum%20II\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/437.%20Path%20Sum%20II\Solution.java)|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/438.%20Find%20All%20Anagrams%20in%20a%20Strin\Solution.java)|
 |439|[Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/description/) :lock:|Medium|To Do|To Do|
 |440|[K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/) |Hard|To Do|To Do|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/441.%20Arranging%20Coins\Solution.cpp)|To Do|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |Medium|To Do|To Do|
-|443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/443.%20String%20Compression\Solution.cpp)|To Do|
+|443|[String Compression](https://leetcode.com/problems/string-compression/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/443.%20String%20Compression\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/443.%20String%20Compression\Solution.java)|
 |444|[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/description/) :lock:|Medium|To Do|To Do|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) |Medium|To Do|To Do|
 |446|[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) |Hard|To Do|To Do|
-|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/447.%20Number%20of%20Boomerang\Solution.cpp)|To Do|
-|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Arra\Solution.cpp)|To Do|
+|447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/447.%20Number%20of%20Boomerang\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/447.%20Number%20of%20Boomerang\Solution.java)|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Arra\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Arra\Solution.java)|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/description/) |Medium|To Do|To Do|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |Medium|To Do|To Do|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/451.%20Sort%20Characters%20By%20Frequenc\Solution.cpp)|To Do|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) |Medium|To Do|To Do|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) |Easy|To Do|To Do|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/454.%204Sum%20II\Solution.cpp)|To Do|
-|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/455.%20Assign%20Cookie\Solution.cpp)|To Do|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/455.%20Assign%20Cookie\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/455.%20Assign%20Cookie\Solution.java)|
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/description/) |Medium|To Do|To Do|
 |457|[Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/) |Medium|To Do|To Do|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) |Hard|To Do|To Do|
@@ -470,7 +470,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/482.%20License%20Key%20Formattin\Solution.cpp)|To Do|
 |483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/) |Hard|To Do|To Do|
 |484|[Find Permutation](https://leetcode.com/problems/find-permutation/description/) :lock:|Medium|To Do|To Do|
-|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones\Solution.cpp)|To Do|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/485.%20Max%20Consecutive%20Ones\Solution.java)|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/) |Medium|To Do|To Do|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/) :lock:|Medium|To Do|To Do|
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game/description/) |Hard|To Do|To Do|
@@ -487,10 +487,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) |Easy|To Do|To Do|
 |502|[IPO](https://leetcode.com/problems/ipo/description/) |Hard|To Do|To Do|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) |Medium|To Do|To Do|
-|504|[Base 7](https://leetcode.com/problems/base-7/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/504.%20Base\Solution.cpp)|To Do|
+|504|[Base 7](https://leetcode.com/problems/base-7/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/504.%20Base\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/504.%20Base\Solution.java)|
 |505|[The Maze II](https://leetcode.com/problems/the-maze-ii/description/) :lock:|Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/505.%20The%20Maze%20II\Solution.cpp)|To Do|
-|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/506.%20Relative%20Ranks\Solution.cpp)|To Do|
-|507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/507.%20Perfect%20Number\Solution.cpp)|To Do|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/506.%20Relative%20Ranks\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/506.%20Relative%20Ranks\Solution.java)|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/507.%20Perfect%20Number\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/507.%20Perfect%20Number\Solution.java)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/508.%20Most%20Frequent%20Subtree%20Su\Solution.cpp)|To Do|
 |510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/description/) :lock:|Medium|To Do|To Do|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/513.%20Find%20Bottom%20Left%20Tree%20Value\Solution.cpp)|To Do|
@@ -694,7 +694,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |759|[Employee Free Time](https://leetcode.com/problems/employee-free-time/description/) :lock:|Hard|To Do|To Do|
 |760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/) :lock:|Easy|To Do|To Do|
 |761|[Special Binary String](https://leetcode.com/problems/special-binary-string/description/) |Hard|To Do|To Do|
-|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal\Solution.cpp)|To Do|
+|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/429.%20N-ary%20Tree%20Level%20Order%20Traversal\Solution.java)|
 |428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/description/) :lock:|Hard|To Do|To Do|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) |Medium|To Do|To Do|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representatio\Solution.cpp)|To Do|

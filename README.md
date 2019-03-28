@@ -1,9 +1,9 @@
 # Keep thinking, keep alive
-Until 2019-03-28 22:06:10, I have solved **314** / **965** problems while **140** are still locked.
+Until 2019-03-28 22:19:20, I have solved **316** / **965** problems while **140** are still locked.
 
 Completion statistic: 
 1. C++: 294
-2. Java: 56
+2. Java: 74
 
 Note: :lock: means you need to buy a book from LeetCode
 
@@ -151,7 +151,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/138.%20Copy%20List%20with%20Random%20Pointe\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/138.%20Copy%20List%20with%20Random%20Pointe\Solution.java)|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/139.%20Word%20Brea\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/139.%20Word%20Brea\Solution.java)|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/description/) |Hard|To Do|To Do|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/141.%20Linked%20List%20Cycle\Solution.cpp)|To Do|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/141.%20Linked%20List%20Cycle\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/141.%20Linked%20List%20Cycle\Solution.java)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) |Medium|To Do|To Do|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/) |Medium|To Do|To Do|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) |Medium|To Do|To Do|
@@ -165,7 +165,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) |Medium|To Do|To Do|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array\Solution.cpp)|To Do|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) |Hard|To Do|To Do|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/155.%20Min%20Stac\Solution.cpp)|To Do|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/155.%20Min%20Stac\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/155.%20Min%20Stac\Solution.java)|
 |156|[Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/description/) :lock:|Medium|To Do|To Do|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/description/) :lock:|Easy|To Do|To Do|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/description/) :lock:|Hard|To Do|To Do|
@@ -177,11 +177,11 @@ Note: :lock: means you need to buy a book from LeetCode
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/description/) |Hard|To Do|To Do|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/165.%20Compare%20Version%20Numbers\Solution.cpp)|To Do|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/) |Medium|To Do|To Do|
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorte\Solution.cpp)|To Do|
-|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|To Do|To Do|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/169.%20Majority%20Element\Solution.cpp)|To Do|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorte\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorte\Solution.java)|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/168.%20Excel%20Sheet%20Column%20Titl\Solution.java)|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/169.%20Majority%20Element\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/169.%20Majority%20Element\Solution.java)|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) :lock:|Easy|To Do|To Do|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/171.%20Excel%20Sheet%20Column%20Numbe\Solution.cpp)|To Do|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/171.%20Excel%20Sheet%20Column%20Numbe\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/171.%20Excel%20Sheet%20Column%20Numbe\Solution.java)|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/172.%20Factorial%20Trailing%20Zeroes\Solution.cpp)|To Do|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/173.%20Binary%20Search%20Tree%20Iterato\Solution.cpp)|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|
@@ -191,16 +191,16 @@ Note: :lock: means you need to buy a book from LeetCode
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/189.%20Rotate%20Array\Solution.cpp)|To Do|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bit\Solution.cpp)|To Do|
-|198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/198.%20House%20Robbe\Solution.cpp)|To Do|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bit\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/191.%20Number%20of%201%20Bit\Solution.java)|
+|198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/198.%20House%20Robbe\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/198.%20House%20Robbe\Solution.java)|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/199.%20Binary%20Tree%20Right%20Side%20View\Solution.cpp)|To Do|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/200.%20Number%20of%20Island\Solution.java)|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/description/) |Medium|To Do|To Do|
-|202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/202.%20Happy%20Numbe\Solution.cpp)|To Do|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/203.%20Remove%20Linked%20List%20Elements\Solution.cpp)|To Do|
-|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/204.%20Count%20Prime\Solution.cpp)|To Do|
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|To Do|To Do|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List\Solution.cpp)|To Do|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/202.%20Happy%20Numbe\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/202.%20Happy%20Numbe\Solution.java)|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/203.%20Remove%20Linked%20List%20Elements\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/203.%20Remove%20Linked%20List%20Elements\Solution.java)|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/204.%20Count%20Prime\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/204.%20Count%20Prime\Solution.java)|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) |Easy|To Do|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/205.%20Isomorphic%20String\Solution.java)|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/206.%20Reverse%20Linked%20List\Soluttion.java)|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/) |Medium|To Do|To Do|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |Medium|To Do|To Do|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/209.%20Minimum%20Size%20Subarray%20Sum\Solution.cpp)|To Do|
@@ -209,23 +209,23 @@ Note: :lock: means you need to buy a book from LeetCode
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/212.%20Word%20Search%20II\Solution.cpp)|To Do|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/213.%20House%20Robber%20I\Solution.cpp)|To Do|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/description/) |Hard|To Do|To Do|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Arra\Solution.cpp)|To Do|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Arra\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/215.%20Kth%20Largest%20Element%20in%20an%20Arra\Solution.java)|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/216.%20Combination%20Sum%20II\Solution.cpp)|To Do|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate\Solution.cpp)|To Do|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/217.%20Contains%20Duplicate\Solution.java)|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) |Hard|To Do|To Do|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/219.%20Contains%20Duplicate%20II\Solution.cpp)|To Do|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) |Medium|To Do|To Do|
-|221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/221.%20Maximal%20Square\Solution.cpp)|To Do|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/221.%20Maximal%20Square\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/221.%20Maximal%20Square\Solution.java)|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) |Medium|To Do|To Do|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/description/) |Medium|To Do|To Do|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) |Hard|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/224.%20Basic%20Calculato\Solution.cpp)|To Do|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) |Easy|To Do|To Do|
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree\Solution.cpp)|To Do|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/226.%20Invert%20Binary%20Tree\Solution.java)|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/227.%20Basic%20Calculator%20II\Solution.cpp)|To Do|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/228.%20Summary%20Range\Solution.cpp)|To Do|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/230.%20Kth%20Smallest%20Element%20in%20a%20BS\Solution.cpp)|To Do|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/231.%20Power%20of%20Tw\Solution.cpp)|To Do|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/231.%20Power%20of%20Tw\Solution.cpp)|[Java](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/231.%20Power%20of%20Tw\Solution.java)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|[C++](https://github.com/hxuanyu/LeetCode-algorithms/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks\Solution.cpp)|To Do|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|
